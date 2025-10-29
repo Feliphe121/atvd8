@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FF6200</color>
+    <string name="app_name">Restaurante</string>
+    <string name="title_detail">Detalhes</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="title_home">Home</string>
+    <string name="title_menu">Menu</string>
+    <string name="title_profile">Perfil</string>
+</resources>

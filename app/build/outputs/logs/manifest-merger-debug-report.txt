@@ -1,0 +1,354 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:2:1-19:12
+INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:2:1-19:12
+MERGED from [androidx.databinding:viewbinding:8.6.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\fa5324426585c1a011590afdcca08151\transformed\jetified-viewbinding-8.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\fad1ae21edaeeb437cf369973cefa5e2\transformed\navigation-common-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\12b492e9d05e2915ae8ef338bd77f8dc\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\f8e547cb15a37672cb7976ecacbc0fd9\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\124a77fc7085d2fe5871631d718b6cbc\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\5a82a7f7bd0d76a7b858c73626dc2567\transformed\navigation-fragment-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\55cebbc1783e71459d1bd26e34f839ed\transformed\navigation-fragment-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\e9d38f7efcb3c1bccd15b45864f88f3d\transformed\navigation-ui-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ea0e460025dd7ca78c688f4ef785dd39\transformed\navigation-ui-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\d78befa2c29fc4c2768badcf8dfc939c\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\2425546f260dee5af88fae4d9f219056\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\416c495e011621de7d50e0d527f4fb59\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0a635dd8af799b57e1488cd3cbc84143\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\5f6af01acf47c85a36b3bae62c0bf386\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\00761e400908313446d4d80373b712ba\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\aa68ec90a5fc75a4d63d5213d3bf6c70\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\dd5dcffbaaaa7310fba06adbe67424f6\transformed\jetified-fragment-ktx-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\57ec04ece2607db4f681c64640129cd4\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\cb13134be36f96b9bbb85079c07fd92c\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ee9f6ef060cbf63945f8caff26046131\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\a298936a0c1eefab039aef5b0e6d7261\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\2f0f66253c29ee879c6395a8d508da61\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\e27b7b0f6beadb81e839d2d16e0d27cc\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\a4345bab7f21eb7812341a5296af4e22\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\eab41bf7b0d8f2f82806371cfd46a5ca\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\99265cc73b2d596ee61354abd2ae350c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\c4c804f073feee32c3bb5bf0fc6ec1d2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\923a475e918e06f92d83fb346f0b1516\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\d2cf2766a9d535f3ce3fdb174ca44341\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\c69510e65c63814f6f22821b32ff2f7d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0d50d47efb87e9bec7e94fa25ab53e99\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\6674e50a1a231fdd82ddd1d69ad5f7f7\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\3b7ca571fb4ea8fcb868249083e2a7a0\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\74a4ffc20a0876a22955ca7d7e5a2926\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18e3783b668a6ed23135ec14813e3e00\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\5cb3e68316b727b23898da13d7e860d2\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ec71ed199961b2340c6b05691b8c5abf\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\52a4e7099f1e44d39e5a34662318a7ef\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\36b1d13c08fefbcf3b6d987b17df3114\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\cd8c5bbe0c57078a9802840aff5acec3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\b135bf31d25c4ee6e82a4f01aff626f2\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\6899c9774818bbed6a143a4832753a52\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\58f6e0f04c6e96d0e7afc5775c2284cb\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ada1a3df586a707e81b06b79e029140a\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0f64b35f175f3e9fda6f76f36b379653\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\067013578b1d3a1c0675b573e5f3b59f\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\45b8364bd0a6839f678a648fd91e79c6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\bd1d0d2f59c1a59e104603cebc489ded\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\293cfdab921bd422bb921392ea8ea044\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\492bad72beff3cdde95bd446c1ae46aa\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\482d0ecabf456eba12b7142a1aa3bad6\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\a00f86d6710ef8d539438d28606ded44\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\c8e5555e98b2b446ad0d359316b7f064\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\90c246705e0ae5eb9b04f605356b3513\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:3:5-18:19
+INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:3:5-18:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\d78befa2c29fc4c2768badcf8dfc939c\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\d78befa2c29fc4c2768badcf8dfc939c\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\2425546f260dee5af88fae4d9f219056\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\2425546f260dee5af88fae4d9f219056\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0f64b35f175f3e9fda6f76f36b379653\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0f64b35f175f3e9fda6f76f36b379653\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\293cfdab921bd422bb921392ea8ea044\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\293cfdab921bd422bb921392ea8ea044\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:5:9-41
+	android:roundIcon
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:7:9-54
+	android:icon
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:4:9-35
+	android:theme
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:9:9-53
+activity#com.example.restaurant.MainActivity
+ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:10:9-17:20
+	android:exported
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:11:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.6.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\fa5324426585c1a011590afdcca08151\transformed\jetified-viewbinding-8.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.6.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\fa5324426585c1a011590afdcca08151\transformed\jetified-viewbinding-8.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\fad1ae21edaeeb437cf369973cefa5e2\transformed\navigation-common-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\fad1ae21edaeeb437cf369973cefa5e2\transformed\navigation-common-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\12b492e9d05e2915ae8ef338bd77f8dc\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\12b492e9d05e2915ae8ef338bd77f8dc\transformed\navigation-common-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\f8e547cb15a37672cb7976ecacbc0fd9\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\f8e547cb15a37672cb7976ecacbc0fd9\transformed\navigation-runtime-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\124a77fc7085d2fe5871631d718b6cbc\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\124a77fc7085d2fe5871631d718b6cbc\transformed\navigation-runtime-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\5a82a7f7bd0d76a7b858c73626dc2567\transformed\navigation-fragment-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\5a82a7f7bd0d76a7b858c73626dc2567\transformed\navigation-fragment-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\55cebbc1783e71459d1bd26e34f839ed\transformed\navigation-fragment-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\55cebbc1783e71459d1bd26e34f839ed\transformed\navigation-fragment-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\e9d38f7efcb3c1bccd15b45864f88f3d\transformed\navigation-ui-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\e9d38f7efcb3c1bccd15b45864f88f3d\transformed\navigation-ui-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ea0e460025dd7ca78c688f4ef785dd39\transformed\navigation-ui-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.3] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ea0e460025dd7ca78c688f4ef785dd39\transformed\navigation-ui-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\d78befa2c29fc4c2768badcf8dfc939c\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\d78befa2c29fc4c2768badcf8dfc939c\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\2425546f260dee5af88fae4d9f219056\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\2425546f260dee5af88fae4d9f219056\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\416c495e011621de7d50e0d527f4fb59\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\416c495e011621de7d50e0d527f4fb59\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0a635dd8af799b57e1488cd3cbc84143\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0a635dd8af799b57e1488cd3cbc84143\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\5f6af01acf47c85a36b3bae62c0bf386\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\5f6af01acf47c85a36b3bae62c0bf386\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\00761e400908313446d4d80373b712ba\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\00761e400908313446d4d80373b712ba\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\aa68ec90a5fc75a4d63d5213d3bf6c70\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\aa68ec90a5fc75a4d63d5213d3bf6c70\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\dd5dcffbaaaa7310fba06adbe67424f6\transformed\jetified-fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\dd5dcffbaaaa7310fba06adbe67424f6\transformed\jetified-fragment-ktx-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\57ec04ece2607db4f681c64640129cd4\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\57ec04ece2607db4f681c64640129cd4\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\cb13134be36f96b9bbb85079c07fd92c\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\cb13134be36f96b9bbb85079c07fd92c\transformed\jetified-activity-ktx-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ee9f6ef060cbf63945f8caff26046131\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ee9f6ef060cbf63945f8caff26046131\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\a298936a0c1eefab039aef5b0e6d7261\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\a298936a0c1eefab039aef5b0e6d7261\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\2f0f66253c29ee879c6395a8d508da61\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\2f0f66253c29ee879c6395a8d508da61\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\e27b7b0f6beadb81e839d2d16e0d27cc\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\e27b7b0f6beadb81e839d2d16e0d27cc\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\a4345bab7f21eb7812341a5296af4e22\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\a4345bab7f21eb7812341a5296af4e22\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\eab41bf7b0d8f2f82806371cfd46a5ca\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\eab41bf7b0d8f2f82806371cfd46a5ca\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\99265cc73b2d596ee61354abd2ae350c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\99265cc73b2d596ee61354abd2ae350c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\c4c804f073feee32c3bb5bf0fc6ec1d2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\c4c804f073feee32c3bb5bf0fc6ec1d2\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\923a475e918e06f92d83fb346f0b1516\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\923a475e918e06f92d83fb346f0b1516\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\d2cf2766a9d535f3ce3fdb174ca44341\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\d2cf2766a9d535f3ce3fdb174ca44341\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\c69510e65c63814f6f22821b32ff2f7d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\c69510e65c63814f6f22821b32ff2f7d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0d50d47efb87e9bec7e94fa25ab53e99\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0d50d47efb87e9bec7e94fa25ab53e99\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\6674e50a1a231fdd82ddd1d69ad5f7f7\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\6674e50a1a231fdd82ddd1d69ad5f7f7\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\3b7ca571fb4ea8fcb868249083e2a7a0\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\3b7ca571fb4ea8fcb868249083e2a7a0\transformed\jetified-savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\74a4ffc20a0876a22955ca7d7e5a2926\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\74a4ffc20a0876a22955ca7d7e5a2926\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18e3783b668a6ed23135ec14813e3e00\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18e3783b668a6ed23135ec14813e3e00\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\5cb3e68316b727b23898da13d7e860d2\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\5cb3e68316b727b23898da13d7e860d2\transformed\jetified-lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ec71ed199961b2340c6b05691b8c5abf\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ec71ed199961b2340c6b05691b8c5abf\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\52a4e7099f1e44d39e5a34662318a7ef\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\52a4e7099f1e44d39e5a34662318a7ef\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\36b1d13c08fefbcf3b6d987b17df3114\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\36b1d13c08fefbcf3b6d987b17df3114\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\cd8c5bbe0c57078a9802840aff5acec3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\cd8c5bbe0c57078a9802840aff5acec3\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\b135bf31d25c4ee6e82a4f01aff626f2\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\b135bf31d25c4ee6e82a4f01aff626f2\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\6899c9774818bbed6a143a4832753a52\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\6899c9774818bbed6a143a4832753a52\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\58f6e0f04c6e96d0e7afc5775c2284cb\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\58f6e0f04c6e96d0e7afc5775c2284cb\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ada1a3df586a707e81b06b79e029140a\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\ada1a3df586a707e81b06b79e029140a\transformed\jetified-annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0f64b35f175f3e9fda6f76f36b379653\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\0f64b35f175f3e9fda6f76f36b379653\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\067013578b1d3a1c0675b573e5f3b59f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\067013578b1d3a1c0675b573e5f3b59f\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\45b8364bd0a6839f678a648fd91e79c6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\45b8364bd0a6839f678a648fd91e79c6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\bd1d0d2f59c1a59e104603cebc489ded\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\bd1d0d2f59c1a59e104603cebc489ded\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\293cfdab921bd422bb921392ea8ea044\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\293cfdab921bd422bb921392ea8ea044\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\492bad72beff3cdde95bd446c1ae46aa\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\492bad72beff3cdde95bd446c1ae46aa\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\482d0ecabf456eba12b7142a1aa3bad6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\482d0ecabf456eba12b7142a1aa3bad6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\a00f86d6710ef8d539438d28606ded44\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\a00f86d6710ef8d539438d28606ded44\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\c8e5555e98b2b446ad0d359316b7f064\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\c8e5555e98b2b446ad0d359316b7f064\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\90c246705e0ae5eb9b04f605356b3513\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\90c246705e0ae5eb9b04f605356b3513\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Italo\CascadeProjects\RestaurantNavApp\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\293cfdab921bd422bb921392ea8ea044\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\293cfdab921bd422bb921392ea8ea044\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4dc33341a2d33e2a456858dcd5029e7d\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\1901f52049e9870bb45857019819e8b2\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.restaurant.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.restaurant.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\4ab5d3fc15cf491df09b05144d3830d1\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\27958bcd20d96fd0f0f93feaa2aa3b86\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Italo\.gradle\caches\9.0-milestone-1\transforms\18eb2e0f578b05c0b51abfdff70b6d64\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-mergeDebugResources-47:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-main-50:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-mergeDebugResources-47:\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-main-50:\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-mergeDebugResources-47:\\layout\\fragment_favorites.xml",
+        "source": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-main-50:\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-mergeDebugResources-47:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-main-50:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-mergeDebugResources-47:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-main-50:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.restaurant.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.example.restaurant.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.restaurant.app-mergeDebugResources-47:/layout/fragment_menu.xml",
+        "source": "com.example.restaurant.app-main-50:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-mergeDebugResources-47:\\layout\\item_dish.xml",
+        "source": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-main-50:\\layout\\item_dish.xml"
+    },
+    {
+        "merged": "com.example.restaurant.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "com.example.restaurant.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-mergeDebugResources-47:\\layout\\fragment_dish_detail.xml",
+        "source": "C:\\Users\\Italo\\.gradle\\daemon\\9.0-milestone-1\\com.example.restaurant.app-main-50:\\layout\\fragment_dish_detail.xml"
+    },
+    {
+        "merged": "com.example.restaurant.app-mergeDebugResources-47:/layout/fragment_profile.xml",
+        "source": "com.example.restaurant.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.restaurant.app-mergeDebugResources-47:/layout/item_dish.xml",
+        "source": "com.example.restaurant.app-main-50:/layout/item_dish.xml"
+    },
+    {
+        "merged": "com.example.restaurant.app-mergeDebugResources-47:/layout/fragment_favorites.xml",
+        "source": "com.example.restaurant.app-main-50:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.example.restaurant.app-mergeDebugResources-47:/layout/fragment_dish_detail.xml",
+        "source": "com.example.restaurant.app-main-50:/layout/fragment_dish_detail.xml"
+    }
+]

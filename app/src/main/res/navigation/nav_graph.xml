@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.restaurant.fragments.HomeFragment"
+        android:label="Home">
+        <action
+            android:id="@+id/action_home_to_detail"
+            app:destination="@id/dishDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="com.example.restaurant.fragments.MenuFragment"
+        android:label="Menu">
+        <action
+            android:id="@+id/action_menu_to_detail"
+            app:destination="@id/dishDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/favoritesFragment"
+        android:name="com.example.restaurant.fragments.FavoritesFragment"
+        android:label="Favoritos">
+        <action
+            android:id="@+id/action_favorites_to_detail"
+            app:destination="@id/dishDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.restaurant.fragments.ProfileFragment"
+        android:label="Perfil" />
+
+    <fragment
+        android:id="@+id/dishDetailFragment"
+        android:name="com.example.restaurant.fragments.DishDetailFragment"
+        android:label="Detalhes do Prato">
+        <argument
+            android:name="dish"
+            app:argType="com.example.restaurant.models.Dish" />
+    </fragment>
+</navigation>
